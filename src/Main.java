@@ -22,7 +22,7 @@ public class Main {
             game.GameStart();
         }
         if (game.getErrorNum() >= 10) {
-            System.out.println("Game Over!");
+            System.out.println("Game Over!!!");
         } else {
             System.out.println("Bingo!");
         }
